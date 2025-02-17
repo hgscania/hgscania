@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hgscania
 - 👀 I’m interested in c/c++
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently work as embedded system developer
 - 💞️ I’m seeking for remote job opportunities
 - 📫 How to reach me hgscania@gmail.com telegram: @hgscania telegram channel: t.me/pcb_embedded
 
